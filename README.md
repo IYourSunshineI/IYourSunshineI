@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=IYourSunshineI&&show_icons=true&theme=great-gatsby">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IYourSunshineI&&theme=great-gatsby">
