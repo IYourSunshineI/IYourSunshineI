@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=IYourSunshineI&&show_icons=true&theme=midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api?username=IYourSunshineI&&show_icons=true&theme=graywhite">
 
 ### Tools :
 <div>
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IYourSunshineI&&layout=compact&&theme=midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IYourSunshineI&&layout=compact&&theme=graywhite">
