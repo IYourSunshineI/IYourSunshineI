@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IYourSunshineI&&show_icons=true&theme=graywhite">
 
+<a href="https://wakatime.com/@75bcc168-5273-428e-87a2-ac8ba5a296ae"><img src="https://wakatime.com/badge/user/75bcc168-5273-428e-87a2-ac8ba5a296ae.svg" alt="Total time coded since Nov 17 2022" /></a>
 ##
 #### Current Project:
 ### Marching Cubes Algorithm
