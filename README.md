@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ##
 #### Current Project:
-### Marching Cubes Algorithm
+### -
 ##
 #### Tools :
 <div>
