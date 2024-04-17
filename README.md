@@ -24,8 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 39 mins   ████████████████████████▓   99.28 %
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+JavaScript       2 hrs 39 mins   ███████████████░░░░░░░░░░   60.51 %
+C                1 hr 41 mins    █████████▓░░░░░░░░░░░░░░░   38.75 %
+HTML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+ObjectiveC       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
