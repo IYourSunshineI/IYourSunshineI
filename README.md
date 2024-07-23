@@ -20,7 +20,7 @@
 
 ###
 
-**This Weeks Summary**
+**This Week's Summary**
 <!--START_SECTION:waka-->
 
 ```txt
