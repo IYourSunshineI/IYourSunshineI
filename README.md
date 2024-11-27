@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin             13 hrs 12 mins  ██████████████████▓░░░░░░   74.88 %
-YAML               1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-Java Properties    1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-Properties         58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Python             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Kotlin             15 hrs 19 mins  ██████████████████▓░░░░░░   74.01 %
+YAML               1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+Java Properties    1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Properties         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Rust               46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->
