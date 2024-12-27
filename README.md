@@ -24,11 +24,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       9 hrs           ██████████████████████░░░   87.80 %
-Kotlin           34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-YAML             30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-GitIgnore file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   4 mins          █████████████████▒░░░░░░░   68.73 %
+Kotlin       1 min           ███████▓░░░░░░░░░░░░░░░░░   31.27 %
 ```
 
 <!--END_SECTION:waka-->
