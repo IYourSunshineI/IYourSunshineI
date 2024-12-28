@@ -24,8 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 mins          █████████████████▒░░░░░░░   68.73 %
-Kotlin       1 min           ███████▓░░░░░░░░░░░░░░░░░   31.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
