@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   57 mins         ████████▓░░░░░░░░░░░░░░░░   34.99 %
-HTML         45 mins         ███████░░░░░░░░░░░░░░░░░░   27.86 %
-Kotlin       44 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
-Python       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Java         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
