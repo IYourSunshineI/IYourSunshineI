@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++          2 hrs 16 mins   ████████████████████░░░░░   80.36 %
+Java         21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+Markdown     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+XML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
