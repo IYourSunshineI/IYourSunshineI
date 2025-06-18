@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell            14 hrs 18 mins  ███████████████████░░░░░░   76.18 %
-Visual Basic 6.0   56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-TypeScript         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Cabal Config       39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Other              35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Haskell            14 hrs 17 mins  █████████████████▒░░░░░░░   69.02 %
+Kotlin             1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Visual Basic 6.0   56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+TypeScript         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Cabal Config       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->
