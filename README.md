@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java           47 mins         ████████████████████▒░░░░   81.82 %
-Python         6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-XML            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Docker         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-textmate       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
