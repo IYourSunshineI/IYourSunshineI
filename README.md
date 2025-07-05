@@ -24,10 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell    1 hr 22 mins    ███████████████████████▓░   94.46 %
-Other      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
