@@ -24,7 +24,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell   17 mins         █████████████████████████   100.00 %
+Haskell     17 mins         ████████████████▓░░░░░░░░   66.29 %
+GDScript3   8 mins          ████████▒░░░░░░░░░░░░░░░░   33.71 %
 ```
 
 <!--END_SECTION:waka-->
