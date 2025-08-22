@@ -24,7 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#         32 mins         ████████████████████████░   96.35 %
+Java       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
