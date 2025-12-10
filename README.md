@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++          1 hr 23 mins    █████████████████████▒░░░   85.21 %
-INI          7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Git Config   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
