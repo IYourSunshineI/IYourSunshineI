@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform    32 mins         ███████░░░░░░░░░░░░░░░░░░   27.84 %
-Dart         32 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
-Python       18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
-PowerShell   16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
-Bash         14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
