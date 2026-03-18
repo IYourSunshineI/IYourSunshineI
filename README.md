@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++           1 hr 22 mins          ███████████░░░░░░░░░░░░░░   44.44 %
+Objective-C   37 mins               █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+INI           29 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+JavaScript    14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+JSON          13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
 ```
 
 <!--END_SECTION:waka-->
