@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     1 hr 59 mins          ███████████▒░░░░░░░░░░░░░   45.10 %
+Dart         1 hr 31 mins          ████████▓░░░░░░░░░░░░░░░░   34.71 %
+YAML         15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Kotlin       11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+XML          7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
