@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C             2 hrs 36 mins         █████████████████░░░░░░░░   67.71 %
-Markdown      58 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
-CMake         10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-PowerShell    4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Python        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
