@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C             2 hrs 12 mins         ██████████▒░░░░░░░░░░░░░░   41.82 %
+Markdown      1 hr 45 mins          ████████▒░░░░░░░░░░░░░░░░   33.38 %
+Python        54 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
+Diff          9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+CMake         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
